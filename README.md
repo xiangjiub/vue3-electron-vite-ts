@@ -194,3 +194,6 @@ This project requires Node 14 or later.
 [eslint-plugin-vue]: https://github.com/vuejs/eslint-plugin-vue
 [cawa-93-github]: https://github.com/cawa-93/
 [cawa-93-sponsor]: https://www.patreon.com/Kozack/
+
+## electron安装
+cnpm install -g  electron@latest
